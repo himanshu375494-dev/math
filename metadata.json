@@ -1,0 +1,7 @@
+{
+  "name": "Speed Math Mind Workout",
+  "description": "High-intensity mental math drill and brain workout with 43 calculation modes: Addition specials (ab+ba, Rounding, Bridging 100, 3D+2D, Running sum), Percent hacks, Vedic/Algebra shortcuts, Speed Multiplication, and speed drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
